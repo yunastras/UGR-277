@@ -1,5 +1,6 @@
 
 # Week 7: RAG Security Knowledge Assistant — Evaluation Report
+🔗 **Live Chatbot:** https://cloud.flowiseai.com/chatbot/87afca78-db6b-450a-af1c-501b59332d93
 
 ## 1. Setup Summary
 - **LLM:** llama-3.3-70b-versatile via Groq
